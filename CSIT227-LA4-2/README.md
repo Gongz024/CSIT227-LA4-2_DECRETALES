@@ -1,5 +1,4 @@
-Implement the following classes based on the following description.  
-A Person could either be an Employee or Customer. An Employee could be a Manager, a Developer, or just a regular Employee.
+
 
 # The Classes
 
